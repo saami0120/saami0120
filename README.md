@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ...{MERN based full stack}
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...{Email : saamisajid@gmail.com,
--                         Phone: +91 XXXXXXXX01}
+Phone: +91 XXXXXXXX01}
 - 😄 Pronouns: ... believesInPronouns === FALSE
 - ⚡ Fun fact: ...
 
