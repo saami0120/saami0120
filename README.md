@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... {Cars🏎️ && Music🎧 && Coding👨🏼‍💻 && Basketball🏀}
 - 🌱 I’m currently learning ...{MERN based full stack}
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...{Email : saamisajid@gmail.com,
+- 📫 How to reach me ...{Email : saamisajidwork@gmail.com,
 Phone: +91 XXXXXXXX01}
 - 😄 Pronouns: ... believesInPronouns === FALSE
 - ⚡ Fun fact: ...
