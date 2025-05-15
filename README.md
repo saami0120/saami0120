@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @saami0120
 - 👀 I’m interested in ... {Cars🏎️ && Music🎧 && Coding👨🏼‍💻 && Basketball🏀}
-- 🌱 I’m currently learning ...{MERN based full stack}
+- 🌱 I’m currently learning ...{Web Dev (MERN) / Blockchain Secure Application Dev}
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...{Email : saamisajidwork@gmail.com,
 Phone: +91 XXXXXXXX01}
